@@ -1,0 +1,12 @@
+{
+  "name": "friends-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4",
+    "express_logger": "^0.0.4",
+    "mongodb": "^2.2.31",
+    "monk": "^6.0.4"
+  }
+}
